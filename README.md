@@ -1,29 +1,29 @@
-Calculadora
+# Calculadora
+
 <div align="center">
-  <img src="./assets/Animação.gif" width="500" >
+  <h1>Calculadora</h1>
+  <img src="./simpleCalculator.gif" width="500" >
 </div>
+
 <div align="left">
-Descrição
+
+## Descrição
+
 Este projeto é uma calculadora simples desenvolvida em HTML, CSS e JavaScript. Permite realizar operações básicas de adição, subtração, multiplicação e divisão.
 
-Tecnologias
-HTML
-CSS
-JavaScript
-Como usar
-Faça o clone deste repositório:
+## Tecnologias
 
-bash
-Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o arquivo index.html em seu navegador.
+- HTML
+- CSS
+- JavaScript
 
-Utilize os botões da calculadora para inserir números e realizar operações.
+## Como usar
 
-Clique no botão '=' para calcular o resultado da expressão inserida.
-
-Use o botão 'C' para limpar a tela da calculadora.
-
-O botão '<' permite apagar o último caractere inserido.
+1. Faça o clone deste repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+2. Abra o arquivo `index.html` em seu navegador.
+3. Utilize os botões da calculadora para inserir números e realizar operações.
+4. Clique no botão '=' para calcular o resultado da expressão inserida.
+5. Use o botão 'C' para limpar a tela da calculadora.
+6. O botão '<' permite apagar o último caractere inserido.
 
 </div>
