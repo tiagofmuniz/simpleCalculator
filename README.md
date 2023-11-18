@@ -1,11 +1,7 @@
-# Calculadora
-
 <div align="center">
   <h1>Calculadora</h1>
   <img src="./simpleCalculator.gif" width="500" >
 </div>
-
-<div align="left">
 
 ## Descrição
 
@@ -25,5 +21,3 @@ Este projeto é uma calculadora simples desenvolvida em HTML, CSS e JavaScript. 
 4. Clique no botão '=' para calcular o resultado da expressão inserida.
 5. Use o botão 'C' para limpar a tela da calculadora.
 6. O botão '<' permite apagar o último caractere inserido.
-
-</div>
