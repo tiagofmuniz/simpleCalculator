@@ -14,7 +14,7 @@
 
 > ## Como usar
 
-1. Faça o clone deste repositório: {{repositorio}}
+1. Faça o clone deste repositório: https://github.com/tiagofmuniz/simpleCalculator.git
 2. Abra o arquivo `index.html` no seu navegador.
 3. Utilize os botões na calculadora para realizar operações matemáticas.
    - Botão "C": Limpa o visor.
