@@ -1,23 +1,33 @@
 <div align="center">
   <h1>Calculadora</h1>
-  <img src="./simpleCalculator.gif" width="500" >
+  <img src="simpleCalculator.gif" width="500" >
 </div>
 
-## Descrição
+> ## Descrição
+   Uma simples calculadora implementada em HTML, CSS e JavaScript.
 
-Este projeto é uma calculadora simples desenvolvida em HTML, CSS e JavaScript. Permite realizar operações básicas de adição, subtração, multiplicação e divisão.
+> ## Tecnologias
 
-## Tecnologias
+  - HTML
+  - CSS
+  - JavaScript
 
-- HTML
-- CSS
-- JavaScript
+> ## Como usar
 
-## Como usar
+1. Faça o clone deste repositório: {{repositorio}}
+2. Abra o arquivo `index.html` no seu navegador.
+3. Utilize os botões na calculadora para realizar operações matemáticas.
+   - Botão "C": Limpa o visor.
+   - Botão "<": Apaga o último dígito.
+   - Botão "/": Adiciona a operação de divisão.
+   - Botão "X": Adiciona a operação de multiplicação.
+   - Botões numéricos de 0 a 9: Adicionam os respectivos números ao visor.
+   - Botão "-": Adiciona a operação de subtração.
+   - Botão "+": Adiciona a operação de adição.
+   - Botão ".": Adiciona um ponto decimal.
+   - Botão "=": Calcula o resultado da expressão.
 
-1. Faça o clone deste repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Abra o arquivo `index.html` em seu navegador.
-3. Utilize os botões da calculadora para inserir números e realizar operações.
-4. Clique no botão '=' para calcular o resultado da expressão inserida.
-5. Use o botão 'C' para limpar a tela da calculadora.
-6. O botão '<' permite apagar o último caractere inserido.
+> ## Principais aprendizados
+
+- Implementação de uma interface de calculadora simples em HTML e CSS.
+- Manipulação do DOM utilizando JavaScript para realizar operações de cálculo.
